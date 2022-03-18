@@ -1,0 +1,3 @@
+truffle migrate --reset --network rinkeby
+
+FUNCIONA 9-3-2
